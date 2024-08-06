@@ -1,6 +1,6 @@
 {
   "description": "",
-  "name": "Adobe (Denied)",
+  "name": "Adobe (Blockliste)",
   "rules": [
     {
       "action": "deny",
@@ -27,7 +27,7 @@
       "modificationDate": 1537880961.900491,
       "owner": "me",
       "priority": "high",
-      "process": "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "process": "/Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app/Contents/MacOS/Adobe Desktop Service",
       "remote": "any"
     },
     {
@@ -36,7 +36,286 @@
       "modificationDate": 1537880978.576865,
       "owner": "me",
       "priority": "high",
-      "process": "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "process": "/Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/MacOS/Core Sync",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Photoshop 2023/Adobe Photoshop 2023.app/Contents/MacOS/Adobe Photoshop",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Photoshop 2024/Adobe Photoshop 2024.app/Contents/MacOS/Adobe Photoshop",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Photoshop 2025/Adobe Photoshop 2025.app/Contents/MacOS/Adobe Photoshop",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Illustrator 2023/Adobe Illustrator 2023.app/Contents/MacOS/Adobe Illustrator",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Illustrator 2024/Adobe Illustrator 2024.app/Contents/MacOS/Adobe Illustrator",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Illustrator 2025/Adobe Illustrator 2025.app/Contents/MacOS/Adobe Illustrator",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe InDesign 2023/Adobe InDesign 2023.app/Contents/MacOS/Adobe InDesign",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe InDesign 2024/Adobe InDesign 2024.app/Contents/MacOS/Adobe InDesign",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe InDesign 2025/Adobe InDesign 2025.app/Contents/MacOS/Adobe InDesign",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Premiere Pro 2023/Adobe Premiere Pro 2023.app/Contents/MacOS/Adobe Premiere Pro",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Premiere Pro 2024/Adobe Premiere Pro 2024.app/Contents/MacOS/Adobe Premiere Pro",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Premiere Pro 2025/Adobe Premiere Pro 2025.app/Contents/MacOS/Adobe Premiere Pro",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe After Effects 2023/Adobe After Effects 2023.app/Contents/MacOS/Adobe After Effects",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe After Effects 2024/Adobe After Effects 2024.app/Contents/MacOS/Adobe After Effects",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe After Effects 2025/Adobe After Effects 2025.app/Contents/MacOS/Adobe After Effects",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Lightroom 2023/Adobe Lightroom 2023.app/Contents/MacOS/Adobe Lightroom",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Lightroom 2024/Adobe Lightroom 2024.app/Contents/MacOS/Adobe Lightroom",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Lightroom 2025/Adobe Lightroom 2025.app/Contents/MacOS/Adobe Lightroom",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Audition 2023/Adobe Audition 2023.app/Contents/MacOS/Adobe Audition",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Audition 2024/Adobe Audition 2024.app/Contents/MacOS/Adobe Audition",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Audition 2025/Adobe Audition 2025.app/Contents/MacOS/Adobe Audition",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Animate 2023/Adobe Animate 2023.app/Contents/MacOS/Adobe Animate",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Animate 2024/Adobe Animate 2024.app/Contents/MacOS/Adobe Animate",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Animate 2025/Adobe Animate 2025.app/Contents/MacOS/Adobe Animate",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe XD 2023/Adobe XD 2023.app/Contents/MacOS/Adobe XD",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe XD 2024/Adobe XD 2024.app/Contents/MacOS/Adobe XD",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe XD 2025/Adobe XD 2025.app/Contents/MacOS/Adobe XD",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Dreamweaver 2023/Adobe Dreamweaver 2023.app/Contents/MacOS/Adobe Dreamweaver",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Dreamweaver 2024/Adobe Dreamweaver 2024.app/Contents/MacOS/Adobe Dreamweaver",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Dreamweaver 2025/Adobe Dreamweaver 2025.app/Contents/MacOS/Adobe Dreamweaver",
+      "remote": "any"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1691328000.000000,
+      "modificationDate": 1691328000.000000,
+      "owner": "me",
+      "priority": "high",
+      "process": "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS/Adobe Acrobat",
       "remote": "any"
     }
   ]
